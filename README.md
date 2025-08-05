@@ -44,10 +44,8 @@ Understand what drives repeat purchases in an online video game store and prepar
 
 ## 📈 Key EDA Insights
 
-- Repeat buyer rate: **9.5%**
-- Mobile users showed slightly higher retention
-- Shipping delays > 5 days correlated with lower repeat likelihood
-- Certain marketing channels overrepresented among one-time buyers
+-- Coming Soon
+
 
 ---
 
@@ -62,5 +60,6 @@ Understand what drives repeat purchases in an online video game store and prepar
 ## ✍️ Author
 
 Pedro Daim — Data Analyst  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]([https://www.linkedin.com/in/data-daim/)
- | [Portfolio] | [Email]
+[🔗 LinkedIn](https://www.linkedin.com/in/data-daim/)
+
+
